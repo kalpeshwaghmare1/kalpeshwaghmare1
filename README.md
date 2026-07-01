@@ -2,8 +2,6 @@
   <img src="./assets/banner.png" alt="Kalpesh Waghmare Banner" width="100%" />
 </p>
 
-<h2 align="center">Building modern web applications.</h2>
-
 <p align="center">
   <strong>React</strong> • <strong>Node.js</strong> • <strong>TypeScript</strong>
 </p>
