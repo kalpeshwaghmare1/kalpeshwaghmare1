@@ -65,7 +65,7 @@ I'm continuously improving my engineering skills by building real-world software
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,hibernate,springboot," />
 </p>
 
 ### Database
